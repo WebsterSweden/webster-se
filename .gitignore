@@ -1,5 +1,11 @@
+# Git version control.
+.git
+
 # Macintosh operating system.
 .DS_Store
+
+# Visual Studio Code.
+.vscode
 
 # Windows operating system.
 Thumbs.db
